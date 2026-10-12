@@ -1,0 +1,42 @@
+oniworldgen binary licence
+
+Copyright (c) 2026 barratt. All rights reserved.
+
+This package (the WebAssembly module, the JavaScript files and the data
+embedded in them, together "the Software") is licensed, not sold.
+
+1. Permission. You may, free of charge:
+   a. use the Software, including in websites, applications and services
+      that call it;
+   b. copy and redistribute unmodified copies of the Software, including
+      serving it to your users' browsers or bundling it with your
+      application, as long as this LICENSE and the NOTICE file accompany
+      every copy.
+
+2. Restrictions. You may not, and may not allow anyone else to:
+   a. reverse engineer, decompile, disassemble, decrypt or otherwise attempt
+      to derive the source code, algorithms, internal structure or
+      optimisations of the Software;
+   b. translate the WebAssembly module into another language or format
+      (including C, pseudocode or a decompiled listing), or instrument it to
+      that end;
+   c. modify the Software or create derivative works of it;
+   d. extract the embedded data, or any part of the Software, for use
+      outside the Software;
+   e. remove or alter this LICENSE, the NOTICE file or any notice in the
+      Software.
+   These restrictions apply except where, and only to the extent that,
+   applicable law expressly permits the activity despite this restriction.
+
+3. Output. Results the Software returns (generated world data) may be used
+   for any purpose.
+
+4. Termination. This licence ends automatically if you breach it. You must
+   then stop using and distributing the Software.
+
+5. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+   NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+   ITS USE.

@@ -1,0 +1,13 @@
+{
+  "name": "oniworldgen",
+  "version": "2.0.0",
+  "description": "Oxygen Not Included world generation (game build 744825) as WebAssembly.",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": { ".": "./index.js", "./worldgen_bg.wasm": "./worldgen_bg.wasm" },
+  "files": ["index.js", "index.d.ts", "worldgen.js", "worldgen_bg.wasm", "README.md", "LICENSE", "NOTICE"],
+  "sideEffects": false,
+  "license": "SEE LICENSE IN LICENSE",
+  "gameBuild": "744825"
+}
