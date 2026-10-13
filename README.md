@@ -1,3 +1,7 @@
+> **Superseded by [oniworldgen-rs](https://github.com/barratt/oniworldgen-rs).** This repository is archived.
+> The `oniworldgen` npm package is now built from oniworldgen-rs, which also contains the Rust source,
+> the CLIs and release binaries. Install the latest with `npm install oniworldgen`.
+
 # oniworldgen
 
 Oxygen Not Included world generation for game build 744825, as WebAssembly.
@@ -55,5 +59,5 @@ placed without that simulation, so their positions are approximate and, rarely, 
 
 ## License
 
-Free to use and to redistribute unmodified. Reverse engineering, decompiling and modifying are not
-permitted. See `LICENSE` for the terms and `NOTICE` for the game data.
+Licensed under the GNU Affero General Public License v3.0; see `LICENSE`.
+See `NOTICE` for the game data.

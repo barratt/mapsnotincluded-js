@@ -8,6 +8,6 @@
   "exports": { ".": "./index.js", "./worldgen_bg.wasm": "./worldgen_bg.wasm" },
   "files": ["index.js", "index.d.ts", "worldgen.js", "worldgen_bg.wasm", "README.md", "LICENSE", "NOTICE"],
   "sideEffects": false,
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "AGPL-3.0-only",
   "gameBuild": "744825"
 }
